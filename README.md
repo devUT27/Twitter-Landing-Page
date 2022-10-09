@@ -19,4 +19,4 @@ A responsive  Twitter Landing Page  design using:
 ## Project Contributors 🏆🏆
 
 <a href="https://github.com/Zack-Dx/Twitter-Landing-Page/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Zack-Dx/Twitter-Landing-Page" />
+<img src="https://contrib.rocks/image?repo=Zack-Dx/Twitter-Landing-Page" />          
